@@ -12,7 +12,7 @@ https://edu.nl/94cm9
 - as RDF (this repo) (not yet available)
 - as '[sheet or csv](https://edu.nl/94cm9)' (From menu: 'File/Make a copy')
 
-### Run Python file to create RDF based on latest version in Excel
+### Run Python file to create RDF based on latest version of [data](https://edu.nl/94cm9)
 - via Python (not yet available)
 - via CoW (not yet available)
 
