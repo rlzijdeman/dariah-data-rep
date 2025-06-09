@@ -10,7 +10,7 @@ https://edu.nl/94cm9
 
 ### Download data
 - as RDF (this repo) (not yet available)
-- as '[sheet or csv](https://edu.nl/94cm9)' (use 'save as' via https://edu.nl/94cm9)
+- as '[sheet or csv](https://edu.nl/94cm9)' (From menu: 'File/Make a copy')
 
 ### Run Python file to create RDF based on latest version in Excel
 - via Python (not yet available)
